@@ -1,0 +1,40 @@
+body{
+    min-height: 2000px;
+}
+
+#home{
+        padding-top: 11rem;
+        padding-bottom: 15rem;
+        text-align: center;
+        background-image: url('download.jpeg')
+    }
+
+h2{
+    padding-top: 5rem;
+    text-align: center;
+}
+ .mb-3{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+ }
+#layanan{
+    padding-bottom: 10rem;
+}
+
+#tentang{
+    padding-bottom: 12rem;
+}
+
+#tim{
+    padding-bottom: 9rem;
+}
+
+#kontak{
+    padding-bottom: 7rem;
+    background-color: black;
+}
+
+p{
+    text-align: center;
+}
